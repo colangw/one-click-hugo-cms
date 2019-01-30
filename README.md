@@ -2,6 +2,9 @@
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
+## Deployment Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/195cec8d-0aba-4363-b8fe-4510e87ad847/deploy-status)](https://app.netlify.com/sites/determined-hodgkin-87a5d8/deploys)
+
 ## Getting started
 
 Use our deploy button to get your own copy of the repository. 
